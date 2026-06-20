@@ -2,11 +2,9 @@
 # Proyek Manipulasi Dasar Citra Digital
 
 ### Identitas Mahasiswa
-* **Nama:** [Nama Lengkap Kamu]
-* **NIM:** [Nomor Induk Mahasiswa Kamu]
-* **Mata Kuliah:** Pengolahan Sinyal Digital / Pengolahan Citra Digital
-
----
+* **Nama:** [Azlin Muthia Zahra]
+* **NIM:** [452024618112]
+* **Mata Kuliah:** Pengolahan Sinyal Digital
 
 ## 1. Deskripsi Singkat Project
 Proyek ini merupakan eksperimen laboratorium untuk memahami bagaimana operasi matematis sederhana (baik linier maupun non-linier) berbasis *point processing* dan *multi-input* dapat mengubah karakteristik visual, nilai piksel, kecerahan (*brightness*), kontras, dan detail dari sebuah citra digital. Eksperimen ini diimplementasikan menggunakan bahasa pemrograman Python dengan pustaka utama OpenCV.
